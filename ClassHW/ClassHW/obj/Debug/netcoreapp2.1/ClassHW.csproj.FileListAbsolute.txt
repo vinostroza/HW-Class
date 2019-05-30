@@ -1,0 +1,11 @@
+C:\Users\Veronica Inostroza\source\repos\ClassHW\ClassHW\bin\Debug\netcoreapp2.1\ClassHW.deps.json
+C:\Users\Veronica Inostroza\source\repos\ClassHW\ClassHW\bin\Debug\netcoreapp2.1\ClassHW.runtimeconfig.json
+C:\Users\Veronica Inostroza\source\repos\ClassHW\ClassHW\bin\Debug\netcoreapp2.1\ClassHW.runtimeconfig.dev.json
+C:\Users\Veronica Inostroza\source\repos\ClassHW\ClassHW\bin\Debug\netcoreapp2.1\ClassHW.dll
+C:\Users\Veronica Inostroza\source\repos\ClassHW\ClassHW\bin\Debug\netcoreapp2.1\ClassHW.pdb
+C:\Users\Veronica Inostroza\source\repos\ClassHW\ClassHW\obj\Debug\netcoreapp2.1\ClassHW.csprojAssemblyReference.cache
+C:\Users\Veronica Inostroza\source\repos\ClassHW\ClassHW\obj\Debug\netcoreapp2.1\ClassHW.csproj.CoreCompileInputs.cache
+C:\Users\Veronica Inostroza\source\repos\ClassHW\ClassHW\obj\Debug\netcoreapp2.1\ClassHW.AssemblyInfoInputs.cache
+C:\Users\Veronica Inostroza\source\repos\ClassHW\ClassHW\obj\Debug\netcoreapp2.1\ClassHW.AssemblyInfo.cs
+C:\Users\Veronica Inostroza\source\repos\ClassHW\ClassHW\obj\Debug\netcoreapp2.1\ClassHW.dll
+C:\Users\Veronica Inostroza\source\repos\ClassHW\ClassHW\obj\Debug\netcoreapp2.1\ClassHW.pdb
